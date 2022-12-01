@@ -8,6 +8,6 @@ Esta aplicación no recopila información de identificación personal. Las prefe
 
 Si tiene alguna duda con respecto a la privacidad, no dude en enviarme un correo electrónico.
 
-adrilasar,  
+Adrián Las,  
 España.  
 contact@adrilasar.com
