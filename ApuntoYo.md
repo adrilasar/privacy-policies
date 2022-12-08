@@ -1,12 +1,12 @@
-## Privacy Policy: Apunto Yo! ##
+## Política de privacidad ##
 
 **¡Bienvenido a mi aplicación Apunto Yo!**
 
-Como usuario de Android, me tomo la privacidad muy en serio. Sé lo molestas que llegan a ser las aplicaciones que recopilan datos innecesarios incluso sin tu conocimiento.
+"Apunto Yo!" no recopila ni solicita ningún tipo de dato personal de sus usuarios. No requiere información personal para su uso, y en caso de que se requiera algún dato para una funcionalidad específica, se informará claramente al usuario y se le pedirá su consentimiento antes de recopilar cualquier información.
 
-Esta aplicación no recopila información de identificación personal. Las preferencias se almacenan únicamente en su dispositivo y no se transfieren a ninguna parte. Estas preferencias se borran y restablecen tan pronto como se borran los datos de la aplicación o se desinstala.
+En ningún momento comparto la información de los usuarios con terceros, y garantizo la seguridad de todos los datos recopilados de manera responsable y de acuerdo a las leyes de protección de datos personales.
 
-Si tiene alguna duda con respecto a la privacidad, no dude en enviarme un correo electrónico.
+Si tienes alguna duda con respecto a la privacidad, no dude en enviarme un correo electrónico.
 
 Adrián Las,  
 España.  
